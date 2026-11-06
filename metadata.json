@@ -1,0 +1,6 @@
+{
+  "name": "Adoriva - Luxury Gifting E-Commerce",
+  "description": "Exquisite, handcrafted gifts, luxury hampers, and personalized keepsakes crafted for every cherished occasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
